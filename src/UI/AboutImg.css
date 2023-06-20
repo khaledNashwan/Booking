@@ -1,0 +1,14 @@
+
+.AboutImg__airplan{
+    width: 200px;
+}
+
+.AboutImg__airplan img{
+    width: 100%;
+    object-fit: contain;
+    border-radius: 90px;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    -ms-border-radius: 90px;
+    -o-border-radius: 90px;
+}

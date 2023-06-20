@@ -1,0 +1,15 @@
+.btn{
+     background-color: #3b5cb7;
+     border-radius: 20px;
+     color: white;
+     text-transform: capitalize;
+     text-align: center;
+     font-size: 16px;
+     border: none;
+     width: 170px;
+     padding: 10px 15px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 20px;
+     -o-border-radius: 20px;
+}

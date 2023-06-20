@@ -1,0 +1,25 @@
+.About__head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.About__head h5{
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.About__head h2{
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+
+.About__head p{
+    font-size: 14px;
+    color: #bbbfbe;
+
+}   

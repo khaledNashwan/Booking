@@ -1,0 +1,32 @@
+.About__card{
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+
+}
+
+.About__card .number{
+    position: relative;
+    z-index: 666;
+
+}
+
+.About__card .number::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+ width: 50px;
+ height: 50px;
+ border-radius: 50%;
+ -webkit-border-radius: 50%;
+ -moz-border-radius: 50%;
+ -ms-border-radius: 50%;
+ -o-border-radius: 50%;
+}
+
+.About__card p{
+    color: #bbbfbe;
+
+
+}

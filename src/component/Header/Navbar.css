@@ -1,0 +1,104 @@
+/* High */
+
+div.High{
+      background-color: #f0f4f3;
+      height: 60px;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+}
+
+.High__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.High__left{
+font-size: 28px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.539);
+
+}
+
+.High__center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    color: rgba(0, 0, 0, 0.539);
+
+}
+
+.High__paragraph__one , .High__paragraph__two{
+    display: flex;
+    gap: .4rem;
+
+}
+
+.High__right{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.High__right a{
+    color: rgba(0, 0, 0, 0.539);
+    font-size: 16px;
+    
+}
+
+.High__icon{
+    font-size: 21px;
+}
+
+
+/* High */
+
+
+/* Navbar */
+
+.Navbar{
+      background-color: transparent;
+    position: fixed;
+    top: 60px;
+    width: 100%;
+    z-index: 10000;
+    margin: 0;
+}
+
+.Navbar__wrapper{
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Navbar__left{
+    width: 100px;
+}
+
+.Navbar__left img{
+    width: 65%;
+    object-fit: cover;
+}
+
+.Navbar__right{
+       display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+}
+
+.Navbar__right__one ul{
+       display: flex;
+        gap: 2rem;
+}
+
+.Navbar__right__one ul li a{
+       color: black;
+}
+
+
