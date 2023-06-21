@@ -1,0 +1,23 @@
+
+.Destinations__Img__Name{
+    display: flex;
+    flex-direction: column;
+    gap: .7rem;
+    background-color: #f7f7f7;
+    z-index: 500;
+    width: 170px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    padding: 1rem 6.2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Destinations__Img__Name__head{
+    width: max-content;
+}
+
+.Destinations__Img__Name__paragraph{
+    color: #bbbfbe;
+}

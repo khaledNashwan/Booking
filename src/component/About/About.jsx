@@ -3,9 +3,9 @@ import AboutHead from '../../UI/AboutHead';
 import AboutCard from '../../UI/AboutCard';
 import './about.css'
 import AboutImg from '../../UI/AboutImg';
-import imgone from '../Assets/flightWinter.jpg'
-import imgtwo from "../Assets/FlightTwo.jpg";
-import imgthree from "../Assets/flightHand.jpg";
+import imgone from '../Assets/flightwinter_optimized.jpg'
+import imgtwo from "../Assets/flighttwo_optimized.jpg";
+import imgthree from "../Assets/flighthand_optimized.jpg";
 
 
 const About = () => {

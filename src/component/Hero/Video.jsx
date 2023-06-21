@@ -1,7 +1,7 @@
 import React from 'react'
 import './hero.css'
 import sky from "../Assets/sky.mp4";
-import plan from '../Assets/pngwing.com.png'
+import plan from '../Assets/pngwing_optimized.com.png'
 
 const Video = () => {
   return (

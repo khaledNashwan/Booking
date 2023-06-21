@@ -1,0 +1,43 @@
+.Seats__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Seats__right{
+       display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgOne{
+    position: relative;
+    bottom: 40px;
+}
+
+.imgTwo{
+    position: relative;
+    right: 70px;
+    width: 200px;
+    top: 30px;
+}
+
+
+
+.Seats__left{
+       display: flex;
+flex-direction: column;
+    gap: 2rem;
+}
+
+.Seats__left h1{
+    text-transform: capitalize;
+    font-size: 32px;
+}
+
+.SeatsCard__wrapper{
+       display: grid;
+       grid-template-columns: repeat(2,230px);
+       align-items: center;
+       gap: 2rem;
+}
